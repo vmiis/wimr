@@ -7,3 +7,4 @@
 &#9679; <a href=https://vmiis.github.io/wimr-server-status/ >Server Status Check Up</a> &nbsp; <a href=https://github.com/vmiis/wimr-server-status/>(Code)</a><br> 
 &#9679; <a href=https://vmiis.github.io/wimr-microsoft-flow-activity/ >Microsoft Flow Activity</a> &nbsp; <a href=https://github.com/vmiis/wimr-microsoft-flow-activity>(Code)</a><br> 
 &#9679; <a href=https://vmiis.github.io/wimr-microsoft-dynamics/ >Microsoft Dynamics</a> &nbsp; <a href=https://github.com/vmiis/wimr-microsoft-dynamics>(Code)</a><br>
+&#9679; <a href=https://vmiis.github.io/wimr-microsoft-sharepoint/ >Microsoft SharePoint</a> &nbsp; <a href=https://github.com/vmiis/wimr-microsoft-sharepoint>(Code)</a><br>
