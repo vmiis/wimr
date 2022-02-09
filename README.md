@@ -10,6 +10,7 @@
 &#9679; <a href=https://vmiis.github.io/wimr-microsoft-flow-activity/ >Microsoft Flow Activity</a> &nbsp; <a href=https://github.com/vmiis/wimr-microsoft-flow-activity>(Code)</a><br> 
 &#9679; <a href=https://vmiis.github.io/wimr-microsoft-sharepoint/ >Microsoft SharePoint</a> &nbsp; <a href=https://github.com/vmiis/wimr-microsoft-sharepoint>(Code)</a><br>
 &#9679; <a href=https://vmiis.github.io/wimr-printer-toner-status/ >Printer Toner Status</a> &nbsp; <a href=https://github.com/vmiis/wimr-printer-toner-status>(Code)</a><br>
+&#9679; <a href=https://vmiis.github.io/wimr-rat/ >Rapid Antigen Tests</a> &nbsp; <a href=https://github.com/vmiis/wimr-rat/>(Code)</a><br>
 &#9679; <a href=https://vmiis.github.io/wimr-snapforms/ >Send Email to Patient with Snapforms Link</a> &nbsp; <a href=https://github.com/vmiis/wimr-snapforms/>(Code)</a><br>
 &#9679; <a href=https://vmiis.github.io/wimr-server-status/ >Server Status Check Up</a> &nbsp; <a href=https://github.com/vmiis/wimr-server-status/>(Code)</a><br> 
 &#9679; <a href=https://vmiis.github.io/wimr-sleep-study/ >Sleep Study Reports</a> &nbsp; <a href=https://github.com/vmiis/wimr-sleep-study/>(Code)</a><br> 
